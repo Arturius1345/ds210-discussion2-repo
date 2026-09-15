@@ -12,4 +12,4 @@ _not chosen yet_
 
 ## Members
 
-- _nobody has signed on yet_
+Jeremy

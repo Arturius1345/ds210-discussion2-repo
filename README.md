@@ -12,4 +12,4 @@ The Cool Crew
 
 ## Members
 
-Vineet
+Jeremy

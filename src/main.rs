@@ -10,7 +10,7 @@ fn main() {
     println!("Crew roster:");
 
     // ROSTER: replace the line below with one for yourself.
-    println!(" -Vineet!");
+    println!("  - Jeremy");
 
     println!();
     println!("Motto: {}", MOTTO);

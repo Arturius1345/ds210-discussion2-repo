@@ -8,7 +8,7 @@ cargo run
 
 ## Crew name
 
-_not chosen yet_
+The Cool Crew
 
 ## Members
 
